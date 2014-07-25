@@ -71,7 +71,7 @@ $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl
 
 $mail->From = 'sofcongroup11@gmail.com';
 $mail->FromName = 'SEO KITES message';
-$mail->addAddress('navasfiroz@gmail.com', 'Navas');     // Add a recipient
+$mail->addAddress('praviinns@gmail.com', 'pravin');     // Add a recipient
 
 $mail->addReplyTo('sofcongroup11@gmail.com', 'Information');
 
